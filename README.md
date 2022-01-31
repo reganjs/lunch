@@ -1,8 +1,12 @@
-# lunch
+# lunch.js
 
-## A small project that determines what you should do for lunch 
+### This is a very small project that determines what you should do for lunch. 
 
- * Modify the contents of the function below
+Below I have included all of the required 
+
+
+
+   Modify the contents of the function below
  * If we're not hungry, we want to tell ourselves to get back to work.
  * Otherwise, we want to pick something up and eat it in the lab when
  * we've got less than 20 minutes or to try a place nearby if we've
